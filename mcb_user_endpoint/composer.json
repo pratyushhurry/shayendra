@@ -1,0 +1,13 @@
+{
+    "name": "rajessen/spreadsheet",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.15",
+        "mpdf/mpdf": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Rajessen Pillay",
+            "email": "pillaycarpenen@gmail.com"
+        }
+    ]
+}
